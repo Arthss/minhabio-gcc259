@@ -1,5 +1,7 @@
 # Currículo Arthur Silva
 
+![Foto Arthur Silva](Foto.jpg)
+
 ## Dados Pessoais
 
 * **Nome Completo:** Arthur Eduardo Silva v
